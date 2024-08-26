@@ -1,3 +1,6 @@
+![Apostim](https://github.com/AlabastTheSane/Fuckaroundfindout/blob/main/Apostim2.png)
+
+
 # **Welcome to Apostim! The unofficial guide for adding OStim to your favorite modlist, Apostasy!!!**
 
 Have you ever thought to yourself, "Man, Aljo makes a great list, but it's missing some *spice*"? No? Good, you're a sane person, and not someone who should be reading this guide! Be on your way.
