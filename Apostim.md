@@ -45,4 +45,4 @@ Animation Teleport Bug Fix
 
 Once you've made sure those are selected, you can hit run, and it will proccess the animations (including the degenerate ones you've added!). Let the program run to completion, and when its done, close the program. Reset the MO2 drop down back to Play, and than start a new game. If you've followed the steps outlined above properly, than your new degenerate MCMs should have laoded, and you can configure them how you so desire! 
 
-# GO FORTH AND BE A DEGENERATE INT HE WONDERFUL WORLD THAT ALJO HAS CREATED!!!
+# GO FORTH AND BE A DEGENERATE IN THE WONDERFUL WORLD THAT ALJO HAS CREATED!!!
