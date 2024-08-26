@@ -50,6 +50,7 @@ TK Dodge RE / Ultimate Combat
 Animation Teleport Bug Fix  
 Weapon Switch Animation Fix - Behavior Patch Version  
 
-Once you've made sure those are selected, you can hit run, and it will proccess the animations (including the degenerate ones you've added!). Let the program run to completion, and when its done, close the program. Reset the MO2 drop down back to Play, and than start a new game. If you've followed the steps outlined above properly, than your new degenerate MCMs should have loaded, and you can configure them how you so desire! Something to note, if you wish to have SMP active in scenes, you will need to navigate to the Apostasy MCM Hider, and Unhide the 3BA MCM. YOu can modify the SMP/CBPC toggle through this MCM.
+Once you've made sure those are selected, you can hit run, and it will proccess the animations (including the degenerate ones you've added!). Let the program run to completion, and when its done, close the program. Reset the MO2 drop down back to Play, and than start a new game. If you've followed the steps outlined above properly, than your new degenerate MCMs should have loaded, and you can configure them how you so desire! 
+### Something to note, if you wish to have SMP active in scenes, you will need to navigate to the Apostasy MCM Hider, and Unhide the 3BA MCM. YOu can modify the SMP/CBPC toggle through this MCM.
 
 # GO FORTH AND BE A DEGENERATE IN THE WONDERFUL WORLD THAT ALJO HAS CREATED!!!
